@@ -1,1 +1,4 @@
 # Multi-priority-controller-for-macro-m-industrial-arm
+
+In this research, a control algorithm for a special type of kinematic redandant arm is presented and evaluated. This arm consists of two mechanisms; A macro mechanism (large scale) and a micro mechanism (small scale) which has a specific acceleration and certain working space characteristics are formed. A control algorithm is designed to minimize the task completion time and the overall work of the actuator according to the conventional arms.
+A multipurpose control framework for macro-micro industrial arm is introduced using virtual dynamics, which is effective in predicting void space to achieve secondary tasks. The proposed controller is evaluated on a simulation model based on a macro-micro industrial arm already built for surface laser cutting. The task completion time and the total stimulus work are checked and the results are compared
